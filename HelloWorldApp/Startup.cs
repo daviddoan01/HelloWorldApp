@@ -13,6 +13,8 @@ namespace HelloWorldApp
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+
+            //This ia a test 3. 
         }
     }
 }
